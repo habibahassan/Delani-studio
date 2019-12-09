@@ -79,6 +79,6 @@ $(document).ready(function () {
 $('form#submitform').submit(function () {
     var name = $('#name').val();
     var email = $('#email').val();
-    var text = $('#text').val();
+    var message = $('#message').val();
     alert("Hey " + name + " we have received your information thank you for reaching us!");
 });
