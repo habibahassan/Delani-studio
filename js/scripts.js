@@ -12,11 +12,11 @@ $(document).ready(function () {
         $(".hiddenproductmanagement").toggle();
     });
     $(".row4fashion").hover(function () {
-        $(".imge4").css({ "opacity": "0.2", "transition": "3s" });
+        $(".project4").css({ "opacity": "0.2", "transition": "3s" });
         $("#work4").show();
     },
         function () {
-            $(".imge4").css("opacity", "1");
+            $(".project4").css("opacity", "1");
             $("#work4").hide();
         });
     $(".row3ontario").hover(function () {
@@ -51,7 +51,7 @@ $(document).ready(function () {
             $(".project5").css("opacity", "1")
             $("#work5").hide();
         });
-    $(".row6calculator").hover(function () {
+    $(".row6Calculator").hover(function () {
         $(".project6").css({ "opacity": "0.3", "transition": "3s" });
         $("#work6").show();
     },
@@ -67,7 +67,7 @@ $(document).ready(function () {
             $(".project7").css("opacity", "1")
             $("#work7").hide();
         });
-    $(".row8restaurant").hover(function () {
+    $(".row8Restaurant").hover(function () {
         $(".project8").css({ "opacity": "0.3", "transition": "3s" });
         $("#work8").show();
     },
