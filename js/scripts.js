@@ -79,7 +79,7 @@ $(document).ready(function () {
 $('form#submitform').submit(function () {
     var name = $('#name').val();
     var email = $('#email').val();
-    var text = $('#text').val();
+    var message = $('#message').val();
     var url = "https://us20.api.mailchimp.com/2.0/lists/subscribe.json?" + "apikey=df458b36b6"
     "id=98190a3419c9eb27281a8f3d59840865-us20 " 
     alert("Hey " + name + "We have received your information thank you for reaching us!");
