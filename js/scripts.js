@@ -76,9 +76,7 @@ $(document).ready(function () {
             $("#work8").hide();
         });
 });
-$('form#submitform').submit(function () {
-    var name = $('#name').val();
-    var email = $('#email').val();
-    var message = $('#message').val();
-    alert("Hey " + name + " we have received your information thank you for reaching us!");
-});
+    $('#mc-embedded-subscribe').click(function () {
+            var name=document.getElementById("mce-NAME").value;
+            alert("Hey " + name + ". We have received your details thank you for reaching us!");
+        });
