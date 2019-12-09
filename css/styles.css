@@ -12,17 +12,18 @@
     text-align: center;
     color:white;
 }
-/* .del{
+/* .delani{
     text-align:center;
     color:white;
 }
-.amazing{
+.amazingpeople{
     text-align: center;
     color:white; */
 /* } */
 .mouse{
-    /* margin-left:85vh;
+     /* margin-left:85vh;
     padding-top: 85px; */
+    margin-left: 85vh;
     padding-top: 140px;
     padding-left: 580px;
 }
@@ -68,22 +69,22 @@
      margin-left: 100px;
      margin-top:100px;
  }
-.one h1{
+.portfolio h1{
     text-align: center;
     font-size: 30px;
     font-weight: bolder;
     margin-top: 50px;
 }
-.one .row{
+.portfolio .row{
     display:flex;
     justify-content: space-around;
     margin-right:100px;
     margin-left: 100px;
 }
-.one img{
+.portfolio img{
     display:block;
 }
-.one p{
+.portfolio p{
     text-align: center;
     display: none;
     position: absolute;
@@ -115,12 +116,12 @@
 .contactus textarea{
     margin-left:150px;
     margin-top:20px;
-    /* margin-right: 100px; */
+    margin-right: 100px;
 }
-/* .contactus input{
+ .contactus input{
     margin-left: 300px;
     margin-top: 40px;
-} */
+} 
 #email{
     position: relative;
     margin-right:200px;
@@ -132,11 +133,11 @@
     width:300px;
     margin-left:150px;
 }
- /* button{
+ button{
     position:relative;
     top:40px;
     right:400px;
-} */
+}
 .socialicons{
     margin-top: 70px;
     text-align: center;
