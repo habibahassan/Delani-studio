@@ -115,13 +115,16 @@
     color:white;
 }
 .contactus textarea{
-    margin-left:150px;
+    margin-left:350px;
     margin-top:20px;
     margin-right: 100px;
+    width: 600px;
 }
  .contactus input{
-    margin-left: 300px;
+   
     margin-top: 40px;
+    width: 300px;
+    
 } 
 #email{
     position: relative;
@@ -135,11 +138,6 @@
     margin-left:150px;
 
 }
- /* button{
-    position:relative;
-    top:40px;
-    right:400px;
-} */
 .socialicons{
     margin-top: 70px;
     text-align: center;
@@ -150,9 +148,4 @@
 #footer p{
     text-align: center;
    
-}
-button{
-    text-align: center;
-    margin-top: 20px;
-    display: flex;
 }
