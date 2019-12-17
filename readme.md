@@ -10,6 +10,8 @@ Open your mobile data and go to your browser open github and git clone my reposi
 * J-QUERY
 ## Contributing
 Pull request is welcome for any information.
+### Code Beat
+[![codebeat badge](https://codebeat.co/badges/4ac89f72-a53c-417e-a707-57cb09d2b0a7)](https://codebeat.co/projects/github-com-habibahassan-delani-studio-master)
 ### Link to project
 url(https://habibahassan.github.io/Delani-studio/)
 ## Author and acknowledgment
